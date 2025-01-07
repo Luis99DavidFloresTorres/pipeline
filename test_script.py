@@ -2,4 +2,4 @@ import pytest
 from calc import saludo
 
 def test_saludo():
-    assert saludo("Luis") == "Hello, L!"
+    assert saludo("Luis") == "Hello, No funcionará!"
